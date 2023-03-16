@@ -12,12 +12,12 @@
   "license": "ISC",
   "dependencies": {
     "docdash": "^2.0.1",
-    "gh-pages": "^5.0.0",
     "jsdoc": "^4.0.2",
     "jsdoc-plugin-intersection": "^1.0.4"
   },
   "description": "",
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "jsdoc-http-plugin": "^0.3.2",
     "tui-jsdoc-template": "^1.2.2"
   }
