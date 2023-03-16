@@ -3,7 +3,7 @@ import express from 'express';
 const app = express();
 
 /**
- * @module Api
+ * @module api
  */
 /**
  * Index Route
